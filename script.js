@@ -10,7 +10,7 @@ const cuerpoPagina = document.querySelector("body");
 
 // Constantes informacion//
 const EDAD_MAYOR = 18;
-const CLAVE_SECRETA = 'michi';
+const CLAVE_SECRETA = "michi";
 
 const IMG_PORTADA_1 = "https://pa1.narvii.com/6569/225c1a1633f78322478e231324eed44a9e1a76ac_00.gif";
 const IMG_PORTADA_2 = "https://24.media.tumblr.com/245f521ebb6f18153490587f70492f4d/tumblr_mmm85kOfvj1s8f329o1_250.gif";
@@ -74,11 +74,3 @@ function mostrarmsj() {
     }
 
 }
-
-
-
-
-
-
-
-
